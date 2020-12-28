@@ -1,0 +1,35 @@
+#header
+{
+	color: #fff;
+	/*background: #e74c3c;*/
+	background:black;
+	margin-top: 10px;
+}
+#logo
+{
+	font-size: 2rem;
+	margin-top: 5px;
+
+}
+.form1
+{
+	/*border: 2px solid red;*/
+	margin-top: 20px;
+	/*background: lightgray;*/
+	color:black;
+	overflow-x: hidden;
+	/*border: 2px solid red;*/
+	width: 100%;
+/*	background: url('images/box.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*margin:13px;*/
+}
+#logos
+{
+	margin-top: 15px;
+}
+#end
+{
+	margin-top: 50px;
+}

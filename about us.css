@@ -1,0 +1,52 @@
+/*about us heading */
+.kup
+{
+	border-radius: 5px;
+	margin-top: 20px;
+	color: white;
+}
+/*about us heading ends */
+
+/*about us section starts */
+.mop
+{
+	margin-top: 15px;
+}
+.mop p{
+	color:black;
+}
+.lop
+{
+	font-family: serif;
+}
+.kup
+{
+	color: green;
+	margin-top: 10px;
+	font-family: 'Oswald', sans-serif;
+	text-decoration: underline;
+	opacity: 0.8;
+}
+/*about us section ends */
+
+/*about us footer starts */
+.mba
+{
+	margin-top: 100px;
+	background: #1abc9c;
+}
+
+.jio
+{
+	background: #2E8B57;
+}
+/*about us footer ends */
+
+
+/*about us last footer starts */
+#footer
+{
+	background: #16a085;
+}
+/*about us last footer ends */
+

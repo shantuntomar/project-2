@@ -1,0 +1,28 @@
+.one
+{
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+
+}
+.two
+{
+	background-color: black;
+	color: white;
+	/*height: 500px;*/
+}
+#three
+{
+	   /* font-family: 'Dancing Script', cursive;*/
+
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    color: white;
+}
+.five
+{
+	background:url('images/dj.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.six
+{
+	height: 500px;
+}

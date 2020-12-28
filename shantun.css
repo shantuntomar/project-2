@@ -1,0 +1,186 @@
+body
+{
+	height: 100%;
+	width: 100%;
+	font-family: 'poppins',sans-serif;
+	color: #222;
+}
+/*css for browser body ends */
+
+/*navbar css starts */
+.navbar-nav
+{
+	padding: 0.8rem;
+
+}
+.navbar-nav li 
+{
+	padding-right: 20px;
+}
+.nav-link
+{
+	font-size: 1.1em !important;
+}
+/*navbar css ends */
+
+/*banner css starts */
+#banner
+{
+	background: url('images/lib.jpg') no-repeat 0 0;
+	background-size: cover;
+	height: 700px;
+
+}
+.banner-title h1 
+{
+	background: rgba(255,255,255,0.8);
+	display: inline-block;
+	padding: 10px;
+	margin-right: 0;
+}
+.banner-title
+{
+	margin-top: 390px;
+}
+.title
+{
+	color: white;
+}
+/*banner css ends */
+
+/*icon section css starts  */
+.service-box
+{
+	text-align: center;
+	padding-top: 64px;
+}
+
+.service-box i.fa
+{
+	color:#d35400;
+	font-size: 60px;
+	margin-bottom: 15px;
+
+}
+.section
+{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.head1
+{
+	text-align: center;
+	/*font-family: serif;*/
+	/*text-decoration: underline;*/
+}
+.section h2.section-head
+{
+	margin-bottom: 40px;
+}
+.section h2.section-head:after
+{
+	background: #d35400;
+	content: "";
+	display: block;
+	width: 100px;
+	height: 3px;
+	margin: 20px auto;
+}
+/*icon section css ends  */
+
+/*testimonials css starts */
+#testimonial
+{
+	background: url('images/grey.jpg') no-repeat 0 0;
+	background-size: cover;
+	padding:50px 0;
+	position: relative;
+}
+.hell
+{
+	text-align: center;
+}
+/*testimonial css ends */
+
+/*news css starts*/
+.news-post img
+{
+	width: 100%;
+	margin-bottom: 10px;
+
+}
+.news-post h3
+{
+	font-size: 1.35rem;
+	color: #d35400;
+	
+}
+/*news css ends */
+
+/*footer css starts */
+.footer-sidebar
+{
+	color: #fff;
+	background: #1abc9c;
+	padding: 20px 0;
+}
+.footer-widget h4: after
+{
+	content: "";
+	background: #fff;
+	display: block;
+	width: 50px;
+	height: 2px;
+	margin:5px 0;
+
+}
+.footer-widget a 
+{
+	color: #fff;
+
+}
+.latest-news
+{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+
+}
+
+.latest-news li 
+{
+	margin-bottom: 3px;
+
+}
+/*footer css ends */
+
+
+/*last footer css starts */
+#footer
+{
+	color: #fff;
+	background:#16a085;
+	padding: 10px 0 ;
+
+}
+#social
+{
+	list-style: none;
+	color: #fff;
+	margin:0;
+	padding: 0;
+
+}
+#social li 
+{
+	display: inline-block;
+	padding-left: 5px;
+}
+
+#social li a 
+{
+	color: #fff;
+	font-size: 20px;
+
+}
+/*last footer css ends 

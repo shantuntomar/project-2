@@ -1,0 +1,101 @@
+.kronos1
+{
+	margin-top: 40px;
+	color: white;
+	border-radius: 7px;
+	background: rgba(0,0,0,0.8);	
+
+}
+/*footer css starts */
+.footer-sidebar
+{
+	color: #fff;
+	background: #181818;
+	padding: 20px 0;
+	margin-top: 40px;
+}
+.footer-widget h4: after
+{
+	content: "";
+	background: #fff;
+	display: block;
+	width: 50px;
+	height: 2px;
+	margin:5px 0;
+
+}
+.footer-widget a 
+{
+	color: #fff;
+
+}
+.latest-news
+{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+
+}
+
+.latest-news li 
+{
+	margin-bottom: 3px;
+
+}
+/*footer css ends */
+
+
+/*last footer css starts */
+#footer
+{
+	color: #fff;
+	background:gray;
+	padding: 10px 0 ;
+
+}
+#social
+{
+	list-style: none;
+	color: #fff;
+	margin:0;
+	padding: 0;
+
+}
+#social li 
+{
+	display: inline-block;
+	padding-left: 5px;
+}
+
+#social li a 
+{
+	color: #fff;
+	font-size: 20px;
+
+}
+/*/*last footer css ends */
+body{
+	background-color: black;
+}
+.center{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-family: 'JetBrains Mono', monospace;
+}
+.img
+{
+	opacity: 0.5;
+}
+.pop1{
+	margin-top: 4px;
+}
+.hori{
+	background-color: white;
+}
+.btn
+{
+	background-color: gray;
+}
